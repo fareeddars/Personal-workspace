@@ -1,0 +1,6 @@
+{
+  "name": "AegisDocs - Premium Academic Workspace & Secure Document Sharing",
+  "description": "Secure, elegant personal workspace and document management platform for academic research, university records, and confidential document sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
